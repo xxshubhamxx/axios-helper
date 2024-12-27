@@ -1,5 +1,5 @@
 {
-    "name": "axios-helper",
+    "name": "shubham-axios-helper",
     "version": "1.0.0",
     "description": "A simple Axios helper for GET requests.",
     "main": "index.js",
