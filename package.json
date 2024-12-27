@@ -7,10 +7,14 @@
       "test": "echo \"No tests yet!\""
     },
     "keywords": ["axios", "http", "fetch"],
-    "author": "Your Name",
+    "author": "Shubham Garg",
     "license": "MIT",
     "dependencies": {
       "axios": "^1.4.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/xxshubhamxx/axios-helper.git"
     }
   }
   
