@@ -1,0 +1,16 @@
+{
+    "name": "axios-helper",
+    "version": "1.0.0",
+    "description": "A simple Axios helper for GET requests.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"No tests yet!\""
+    },
+    "keywords": ["axios", "http", "fetch"],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.4.0"
+    }
+  }
+  
